@@ -1,0 +1,17 @@
+﻿  Graphics.cpp
+c:\users\ryan\documents\assignments\year 3\graphics & computational programming\gcp a1\sdl raytracer\sdl raytracer\graphics.cpp(10): warning C4305: 'return': truncation from 'int' to 'bool'
+c:\users\ryan\documents\assignments\year 3\graphics & computational programming\gcp a1\sdl raytracer\sdl raytracer\graphics.cpp(24): warning C4305: 'return': truncation from 'int' to 'bool'
+c:\users\ryan\documents\assignments\year 3\graphics & computational programming\gcp a1\sdl raytracer\sdl raytracer\graphics.cpp(34): warning C4305: 'return': truncation from 'int' to 'bool'
+  main.cpp
+c:\users\ryan\documents\assignments\year 3\graphics & computational programming\gcp a1\sdl raytracer\sdl raytracer\colour.h(12): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ryan\documents\assignments\year 3\graphics & computational programming\gcp a1\sdl raytracer\sdl raytracer\main.cpp(66): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\ryan\documents\assignments\year 3\graphics & computational programming\gcp a1\sdl raytracer\sdl raytracer\main.cpp(67): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\ryan\documents\assignments\year 3\graphics & computational programming\gcp a1\sdl raytracer\sdl raytracer\main.cpp(67): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ryan\documents\assignments\year 3\graphics & computational programming\gcp a1\sdl raytracer\sdl raytracer\main.cpp(90): warning C4244: 'argument': conversion from 'float' to 'Uint8', possible loss of data
+c:\users\ryan\documents\assignments\year 3\graphics & computational programming\gcp a1\sdl raytracer\sdl raytracer\main.cpp(91): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\ryan\documents\assignments\year 3\graphics & computational programming\gcp a1\sdl raytracer\sdl raytracer\main.cpp(112): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\ryan\documents\assignments\year 3\graphics & computational programming\gcp a1\sdl raytracer\sdl raytracer\main.cpp(119): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+c:\users\ryan\documents\assignments\year 3\graphics & computational programming\gcp a1\sdl raytracer\sdl raytracer\graphics.cpp(26): warning C4715: 'Graphics::CreateWindow': not all control paths return a value
+c:\users\ryan\documents\assignments\year 3\graphics & computational programming\gcp a1\sdl raytracer\sdl raytracer\graphics.cpp(37): warning C4715: 'Graphics::CreateRenderer': not all control paths return a value
+  SDL Raytracer.vcxproj -> C:\Users\Ryan\Documents\Assignments\Year 3\Graphics & Computational Programming\GCP A1\SDL Raytracer\Debug\SDL Raytracer.exe
